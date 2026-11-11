@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/Minerva/__init__.py
+src/Minerva/__main__.py
+src/Minerva.egg-info/PKG-INFO
+src/Minerva.egg-info/SOURCES.txt
+src/Minerva.egg-info/dependency_links.txt
+src/Minerva.egg-info/requires.txt
+src/Minerva.egg-info/top_level.txt
+src/Minerva/model/__init__.py
+src/Minerva/model/projects.py
+src/Minerva/model/task.py

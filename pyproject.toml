@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Minerva"
+version = "0.1.1"
+description = "Project Management Strategizing"
+readme = "README.md"
+
+
+dependencies = [
+    "rich"
+]

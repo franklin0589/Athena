@@ -1,0 +1,30 @@
+[
+    {
+        "name": "name",
+        "duration": 1,
+        "goal": "goal",
+        "diff": 1,
+        "fun": 1
+    },
+    {
+        "name": "newtake",
+        "duration": 2,
+        "goal": "hardergoal",
+        "diff": 1,
+        "fun": 2
+    },
+    {
+        "name": "samplethis",
+        "duration": 1,
+        "goal": "writingouttask",
+        "diff": 1,
+        "fun": 1
+    },
+    {
+        "name": "name",
+        "duration": 1,
+        "goal": "goal with spaces",
+        "diff": 2,
+        "fun": 2
+    }
+]
